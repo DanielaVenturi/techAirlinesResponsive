@@ -26,10 +26,5 @@ import CardPassagemMaisVendida from '@/components/menu/CardPassagemMaisVendida.v
   margin-left: auto;
   margin-right: auto;
 }
-.cards {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
 
-}
 </style>
